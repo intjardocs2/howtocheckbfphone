@@ -1,10 +1,13 @@
 How to Check Your Boyfriend's Phone Without Him Knowing Calling and Texting?
 =============================================================================
 
-.. image:: _static/chatNow.png
-   :target: https://t.me/spyremotely
-   :alt: Chat on Telegram
-   :width: 100px
+.. raw:: html
+
+   <div align="center">
+     <a href="https://t.me/spyremotely" target="_blank">
+       <img src="_static/chatNow.png" alt="Chat Now" style="width: 200px;" />
+     </a>
+   </div>
 
 How to Check Your Boyfriend’s Phone Without Breaking Trust
 -----------------------------------------------------------
